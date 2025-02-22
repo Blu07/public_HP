@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.b1be2901.js",
+    "main.js": "/static/js/main.2a5c9838.js",
     "static/media/pythonCert.png": "/static/media/pythonCert.7571a0371726e2c32afb.png",
     "static/media/awsCert.png": "/static/media/awsCert.b99c825f0ec6ffe663b4.png",
     "static/media/ref2023.pdf": "/static/media/ref2023.9ecb3bb586217654b64a.pdf",
@@ -51,9 +51,9 @@
     "static/media/nodejsLogoBlack.png": "/static/media/nodejsLogoBlack.ac674e4bda9e3cdc5eae.png",
     "index.html": "/index.html",
     "static/media/profileBlob.svg": "/static/media/profileBlob.0bf8bbec633b175796162c5015309768.svg",
-    "main.b1be2901.js.map": "/static/js/main.b1be2901.js.map"
+    "main.2a5c9838.js.map": "/static/js/main.2a5c9838.js.map"
   },
   "entrypoints": [
-    "static/js/main.b1be2901.js"
+    "static/js/main.2a5c9838.js"
   ]
 }
