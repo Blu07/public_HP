@@ -1,7 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3de53b0.css",
-    "main.js": "/static/js/main.5c65018f.js",
+    "main.js": "/static/js/main.7a2a85d3.js",
     "static/media/pythonCert.png": "/static/media/pythonCert.7571a0371726e2c32afb.png",
     "static/media/awsCert.png": "/static/media/awsCert.b99c825f0ec6ffe663b4.png",
     "static/media/ref2023.pdf": "/static/media/ref2023.9ecb3bb586217654b64a.pdf",
@@ -20,6 +19,8 @@
     "static/media/awsLogoBlack.png": "/static/media/awsLogoBlack.88e4ab8d4c70b8a3aa48.png",
     "static/media/flaskLogoBlack.png": "/static/media/flaskLogoBlack.27826384e565f59401b0.png",
     "static/media/msListsLogoColor.png": "/static/media/msListsLogoColor.ad9dd3cfe386aed13f76.png",
+    "static/media/uploadImageIconBlack.png": "/static/media/uploadImageIconBlack.6181aff3c96bbb0933f5.png",
+    "static/media/uploadImageIconWhite.png": "/static/media/uploadImageIconWhite.d23f7966f37b6c211410.png",
     "static/media/jsLogoColor.png": "/static/media/jsLogoColor.a2a6881dbbacbfe8631f.png",
     "static/media/firebaseLogoColor.png": "/static/media/firebaseLogoColor.41758c48c2e4fc7a7113.png",
     "static/media/htmlLogoColor.png": "/static/media/htmlLogoColor.2ea49bd64e9ad0e8b629.png",
@@ -29,6 +30,8 @@
     "static/media/msPowerAutomateLogoColor.png": "/static/media/msPowerAutomateLogoColor.065fd6a43f18bc6236d7.png",
     "static/media/pygameLogoWhite.png": "/static/media/pygameLogoWhite.b0650c3adfaa0de57f8b.png",
     "static/media/pygameLogoBlack.png": "/static/media/pygameLogoBlack.51c00f333a0a21fbbbd4.png",
+    "static/media/uploadIconBlack.png": "/static/media/uploadIconBlack.64b88292f1aee5b5358d.png",
+    "static/media/uploadIconWhite.png": "/static/media/uploadIconWhite.9b6e9a51fbb292e402f9.png",
     "static/media/opencvLogoColor.png": "/static/media/opencvLogoColor.816a0419170ad3e1581d.png",
     "static/media/opencvLogoWhite.png": "/static/media/opencvLogoWhite.045abca0ee10754b3520.png",
     "static/media/firebaseLogoWhite.png": "/static/media/firebaseLogoWhite.110a6f5374d692a77efa.png",
@@ -48,11 +51,9 @@
     "static/media/nodejsLogoBlack.png": "/static/media/nodejsLogoBlack.ac674e4bda9e3cdc5eae.png",
     "index.html": "/index.html",
     "static/media/profileBlob.svg": "/static/media/profileBlob.0bf8bbec633b175796162c5015309768.svg",
-    "main.e3de53b0.css.map": "/static/css/main.e3de53b0.css.map",
-    "main.5c65018f.js.map": "/static/js/main.5c65018f.js.map"
+    "main.7a2a85d3.js.map": "/static/js/main.7a2a85d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3de53b0.css",
-    "static/js/main.5c65018f.js"
+    "static/js/main.7a2a85d3.js"
   ]
 }
